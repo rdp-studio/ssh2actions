@@ -50,4 +50,4 @@ This GitHub Action offers you connect to GitHub Actions VM via SSH for interacti
 
 ## Lisence
 
-[MIT](https://github.com/P3TERX/ssh2actions/blob/main/LICENSE) © P3TERX
+[MIT](https://github.com/rdp-studio/ssh2actions/blob/main/LICENSE) © rdp-studio
