@@ -1,4 +1,4 @@
-name: 'SSH to GitHub Actions'
+name: 'SSH to Actions'
 author: 'rdp-studio'
 description: 'Connect to GitHub Actions VM via SSH for interactive debugging'
 inputs:
